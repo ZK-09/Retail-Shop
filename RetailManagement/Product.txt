@@ -1,0 +1,7 @@
+AC000111/Chair/NonFragile/9.33/290
+AC00016/Table/NonFragile/33.33/113
+AC000292/Basket/NonFragile/3.00/363
+AC000213/Water Bottle/NonFragile/3.33/124
+AC000312/Pastic Bag/NonFragile/3.00/142
+AC000113/Hanger/Fragile/3.33/292
+AC000318/Mirror/Fragile/1.33/158
